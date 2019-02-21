@@ -6,4 +6,4 @@ One current trend in navigation styles that you may have seen is the full screen
 
 The main idea would be to use only CSS and not have JS involved in this menu and the easiest way would be to have a checkbox that can be used to toggle in/out the menu.
 
- <input type="checkbox" id="op" autocomplete="off">
+<input type="checkbox" id="op" autocomplete="off">
