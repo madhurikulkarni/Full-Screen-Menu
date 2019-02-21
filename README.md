@@ -1,2 +1,3 @@
-# Full-Screen-Menu-
-Full Screen Menu without JS
+# Full-Screen-Menu
+
+Full screen Overlay Navigation
