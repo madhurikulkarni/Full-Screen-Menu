@@ -1,0 +1,74 @@
+<header id="header">
+  <div class="inside">
+    <div class="container">
+      <div class="top">
+        <div class="logo">
+          <a href="">LOGO</a>
+        </div>
+        <div class="icon">
+          <input type="checkbox" id="op" autocomplete="off">
+          <div class="lower">
+            <label for="op"></label>
+            <div class="hamburger hamburger--squeeze">
+              <div class="hamburger-box">
+                <div class="hamburger-inner"></div>
+              </div>
+            </div>
+          </div>
+          <div class="overlay overlay-hugeinc">
+            <div class="container hlayer">
+              <div class="lower">
+                <div class="top">
+                  <div class="logo">
+                    <a>LOGO</a>
+                  </div>
+                  <label for="op"></label>
+                  <div class="contact"><div class="ce_text block">
+                    <p>Contact Number: <a><span class="number">+(12) 30 456789</span></a></p>
+                  </div></div>
+                  <div class="hamburger hamburger--squeeze">
+                    <div class="hamburger-box">
+                      <div class="hamburger-inner"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="navframe">
+                <nav class="mod_navigation block" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+                  <ul class="level_1">
+                    <li class="active first"><strong class="active">Home</strong></li>
+                    <li class="bg_white sibling"><a class="bg_white sibling" ><span>Menu 1</span></a></li>
+                    <li class="bg_white sibling"><a class="bg_white sibling" ><span>Menu 1</span></a></li>
+                    <li class="bg_white sibling"><a class="bg_white sibling" ><span>Menu 1</span></a></li>
+                    <li class="bg_white sibling"><a class="bg_white sibling" ><span>Menu 1</span></a></li>
+                  </ul>
+                </nav>
+              </div>
+              <div class="menfooter">
+                <nav class="mod_customnav social-links block">
+                  <ul class="level_1">
+                    <li class="facebook first"><a href="" title="Facebook" class="facebook first" target="_blank"><span>Facebook</span></a></li>
+                    <li class="linkedin"><a href="" title="LinkedIn" class="linkedin" target="_blank" ><span>LinkedIn</span></a></li>
+                    <li class="xing last"><a href="" title="Xing" class="xing last" target="_blank" ><span>Xing</span></a></li>
+                  </ul>
+                </nav>
+                <nav class="mod_customnav block">
+                  <ul class="level_1">
+                    <li class="first"><a class="first"><span>Impressum</span></a></li>
+                    <li class="last"><a class="last"><span>Datenchutz</span></a></li>
+                  </ul>
+                </nav>
+                <div class="ce_text block">
+                  <p>© 2018 xxxxxxxxxxx</p>
+                </div>
+              </div>
+            </div>
+          </div></div>
+        <div class="contact"><div class="ce_text block">
+          <p>Contact Number: <a href="tel:+49 8432 94880"><span class="number">+(12) 30 456789</span></a></p>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
